@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7acbcc4ae1f13746ab4014013ed6e5a, type: 3}
+  m_Name: Boss
+  m_EditorClassIdentifier: 
+  enemyID: 10
+  enemyIcon: {fileID: 4958014085782388904, guid: b68d0e99fcd3327499c5a5e462c7369e, type: 3}
+  prefab: {fileID: 2744670525520987350, guid: 1fa2739d5d5be754a84615d02d0b90a2, type: 3}
+  health: 400
+  attackCooldown: 3
+  damage: 31
+  Fire_prefab: {fileID: 3056702588608150700, guid: 9da6aa04895b5cf47a395be8274902a4, type: 3}
+  impact_vfx: {fileID: 1443017757596270944, guid: 9a1c921ed4db2db40bafda910883bda8, type: 3}

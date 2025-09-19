@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a217ed99e9bfd1445a85a2deee1ca85f, type: 3}
+  m_Name: Level 1
+  m_EditorClassIdentifier: 
+  levelIndex: 1
+  level_time: 60
+  reward: 1500
+  After_level_reward: 100
+  levelComplete: 0
+  waves:
+  - enemies:
+    - enemyType: {fileID: 11400000, guid: 32e4d29f42eaec740a6d0574f60419d3, type: 2}
+      count: 6
+    - enemyType: {fileID: 11400000, guid: 53289311bc2e6d445b913424f3ce093f, type: 2}
+      count: 4

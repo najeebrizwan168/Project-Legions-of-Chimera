@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 146f4c667d4dc3345a8289eea025ab99, type: 3}
+  m_Name: evil wizard 3
+  m_EditorClassIdentifier: 
+  cardID: 10
+  cardIcon: {fileID: 462434960, guid: 90c7332c857b6b043bad30766e14a946, type: 3}
+  characterPrefab: {fileID: 1956879079963755834, guid: ab9dee05f25b5ad45b98572b388d6121, type: 3}
+  energyCost: 3
+  health: 180
+  Attack_damage: 30
+  Fire_prefab:
+  - {fileID: 8963801166645118427, guid: 24b8f783fc9f8b84e9e70f2e9de7528f, type: 3}
+  - {fileID: 8963801166645118427, guid: 24b8f783fc9f8b84e9e70f2e9de7528f, type: 3}
+  DamageVfx_prefab: {fileID: 750165579235342313, guid: 194d9d389da0edf40a08bbe983686672, type: 3}
+  animatorControllers:
+  - {fileID: 9100000, guid: 61eaf712032c2aa46ad28fbd321a9df9, type: 2}
+  - {fileID: 9100000, guid: 61eaf712032c2aa46ad28fbd321a9df9, type: 2}
+  upgradelevel: 0
+  level: 1
+  imageadjust: 1

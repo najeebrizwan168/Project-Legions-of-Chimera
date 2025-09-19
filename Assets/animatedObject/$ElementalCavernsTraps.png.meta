@@ -1,0 +1,338 @@
+fileFormatVersion: 2
+guid: 885ae757efebad645aa6710053cd9024
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2705907898412570212
+    second: $ElementalCavernsTraps_0
+  - first:
+      213: -5268520988731934987
+    second: $ElementalCavernsTraps_1
+  - first:
+      213: 1743821951665271632
+    second: $ElementalCavernsTraps_2
+  - first:
+      213: 2983637423327848334
+    second: $ElementalCavernsTraps_3
+  - first:
+      213: 3734890252836639761
+    second: $ElementalCavernsTraps_4
+  - first:
+      213: -5109972299954170307
+    second: $ElementalCavernsTraps_5
+  - first:
+      213: 6607807767931916164
+    second: $ElementalCavernsTraps_6
+  - first:
+      213: 8348900809791677716
+    second: $ElementalCavernsTraps_7
+  - first:
+      213: -4806442451213598563
+    second: $ElementalCavernsTraps_8
+  - first:
+      213: 9054067467212917009
+    second: $ElementalCavernsTraps_9
+  - first:
+      213: -4851031814205540809
+    second: $ElementalCavernsTraps_10
+  - first:
+      213: 8795584233803479830
+    second: $ElementalCavernsTraps_11
+  - first:
+      213: -1041624152128011173
+    second: $ElementalCavernsTraps_12
+  - first:
+      213: -1011564284475074770
+    second: $ElementalCavernsTraps_13
+  - first:
+      213: -3912643023965752125
+    second: $ElementalCavernsTraps_14
+  - first:
+      213: 1675687388702167543
+    second: $ElementalCavernsTraps_15
+  - first:
+      213: -3872337972931240936
+    second: $ElementalCavernsTraps_16
+  - first:
+      213: -791121266834088600
+    second: $ElementalCavernsTraps_17
+  - first:
+      213: 8198798852492076042
+    second: $ElementalCavernsTraps_18
+  - first:
+      213: 8357664074799112551
+    second: $ElementalCavernsTraps_19
+  - first:
+      213: -7206143029032884463
+    second: $ElementalCavernsTraps_20
+  - first:
+      213: -1594938813004795300
+    second: $ElementalCavernsTraps_21
+  - first:
+      213: -5673715380310634731
+    second: $ElementalCavernsTraps_22
+  - first:
+      213: 2346848841901056703
+    second: $ElementalCavernsTraps_23
+  - first:
+      213: 5270880558760650726
+    second: $ElementalCavernsTraps_24
+  - first:
+      213: 2565970638589017319
+    second: $ElementalCavernsTraps_25
+  - first:
+      213: -5179495672401746157
+    second: $ElementalCavernsTraps_26
+  - first:
+      213: 1185557842775309326
+    second: $ElementalCavernsTraps_27
+  - first:
+      213: -5602772567648663125
+    second: $ElementalCavernsTraps_28
+  - first:
+      213: -9061781512076231947
+    second: $ElementalCavernsTraps_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: $ElementalCavernsTraps_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 151
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4661ec7a5e05d8520800000000000000
+      internalID: 2705907898412570212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $ElementalCavernsTraps_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 105
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bcbb13bd3679a4a82e1066934ebe9a
+      internalID: -5268520988731934987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $ElementalCavernsTraps_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 57
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0c2ea2189551f49b06f01f14a87a50
+      internalID: 1743821951665271632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $ElementalCavernsTraps_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 9
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f35e3a804390c4c85d23d11b841651
+      internalID: 2983637423327848334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ca1047dff66d7714480322fe53448d1b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      $ElementalCavernsTraps_0: 2705907898412570212
+      $ElementalCavernsTraps_1: -5268520988731934987
+      $ElementalCavernsTraps_2: 1743821951665271632
+      $ElementalCavernsTraps_3: 2983637423327848334
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

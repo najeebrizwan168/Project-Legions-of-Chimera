@@ -1,0 +1,1560 @@
+fileFormatVersion: 2
+guid: f001516b447202f4f8d2222e02ce7d42
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8854236142689750996
+    second: Gladis_0
+  - first:
+      213: -7862673379511458987
+    second: Gladis_1
+  - first:
+      213: -4599981712533861787
+    second: Gladis_2
+  - first:
+      213: 1297802046960725133
+    second: Gladis_3
+  - first:
+      213: 7989193440705602585
+    second: Gladis_4
+  - first:
+      213: 7511954701516690993
+    second: Gladis_5
+  - first:
+      213: 2777641583293895008
+    second: Gladis_6
+  - first:
+      213: -4346213475495175032
+    second: Gladis_7
+  - first:
+      213: -6307291829031050724
+    second: Gladis_8
+  - first:
+      213: -6927876794302009116
+    second: Gladis_9
+  - first:
+      213: -5902962967566370281
+    second: Gladis_10
+  - first:
+      213: 8402581879603202617
+    second: Gladis_11
+  - first:
+      213: -8717599467697669438
+    second: Gladis_12
+  - first:
+      213: 4013568332112191384
+    second: Gladis_13
+  - first:
+      213: 4834924442354453814
+    second: Gladis_14
+  - first:
+      213: 1456713094680029083
+    second: Gladis_15
+  - first:
+      213: 4530907238618926329
+    second: Gladis_16
+  - first:
+      213: 3835336109912441622
+    second: Gladis_17
+  - first:
+      213: 3155653079163452551
+    second: Gladis_18
+  - first:
+      213: -3895412004155928604
+    second: Gladis_19
+  - first:
+      213: -9189208081515445239
+    second: Gladis_20
+  - first:
+      213: -3624284059575276042
+    second: Gladis_21
+  - first:
+      213: -3331236519682970862
+    second: Gladis_22
+  - first:
+      213: 341727789997269587
+    second: Gladis_23
+  - first:
+      213: -544998963615553444
+    second: Gladis_24
+  - first:
+      213: -7778677709570400225
+    second: Gladis_25
+  - first:
+      213: 8290616310281804308
+    second: Gladis_26
+  - first:
+      213: 1233822963696938023
+    second: Gladis_27
+  - first:
+      213: 808805840711964157
+    second: Gladis_28
+  - first:
+      213: 2682263659073186338
+    second: Gladis_29
+  - first:
+      213: -2481252955510964838
+    second: Gladis_30
+  - first:
+      213: -8187865937524009883
+    second: Gladis_31
+  - first:
+      213: -7153296956790379960
+    second: Gladis_32
+  - first:
+      213: 5983052155099377984
+    second: Gladis_33
+  - first:
+      213: -5647683214554501471
+    second: Gladis_34
+  - first:
+      213: 6170698643860567652
+    second: Gladis_35
+  - first:
+      213: 1023962259038577339
+    second: Gladis_36
+  - first:
+      213: 7824801464703983567
+    second: Gladis_37
+  - first:
+      213: -4644794581082342463
+    second: Gladis_38
+  - first:
+      213: -9058892313261303953
+    second: Gladis_39
+  - first:
+      213: 4740597604607603650
+    second: Gladis_40
+  - first:
+      213: -3211977367941240444
+    second: Gladis_41
+  - first:
+      213: -9024120045973849494
+    second: Gladis_42
+  - first:
+      213: 4709841244900553405
+    second: Gladis_43
+  - first:
+      213: -3337861781900865178
+    second: Gladis_44
+  - first:
+      213: 8490991633990587377
+    second: Gladis_45
+  - first:
+      213: 7458044868549035847
+    second: Gladis_46
+  - first:
+      213: -5881718852505865399
+    second: Gladis_47
+  - first:
+      213: 6842857873030150366
+    second: Gladis_48
+  - first:
+      213: -5250866129445018868
+    second: Gladis_49
+  - first:
+      213: 3591650057318406787
+    second: Gladis_50
+  - first:
+      213: 9029039456347672813
+    second: Gladis_51
+  - first:
+      213: 5333137547903863083
+    second: Gladis_52
+  - first:
+      213: 6423634356670942565
+    second: Gladis_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gladis_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 479
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c207d85d32f6f1580800000000000000
+      internalID: -8854236142689750996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 479
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553ac45383c22e290800000000000000
+      internalID: -7862673379511458987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_2
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 479
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a402311059920c0800000000000000
+      internalID: -4599981712533861787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 479
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c6edde518b20210800000000000000
+      internalID: 1297802046960725133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_4
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 479
+        width: 69
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91463231b115fde60800000000000000
+      internalID: 7989193440705602585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_5
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 479
+        width: 68
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1365ab04003df3860800000000000000
+      internalID: 7511954701516690993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 479
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061169dad4a2c8620800000000000000
+      internalID: 2777641583293895008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_7
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 479
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c181b0fd52fa3c0800000000000000
+      internalID: -4346213475495175032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_8
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 479
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1261ebbf7ff778a0800000000000000
+      internalID: -6307291829031050724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_9
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 383
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0f4f3d2cc3bdf90800000000000000
+      internalID: -6927876794302009116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_10
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 383
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71abbebc476741ea0800000000000000
+      internalID: -5902962967566370281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_11
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 383
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a02e163b7fb9470800000000000000
+      internalID: 8402581879603202617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_12
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 383
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cafeb1d87dd40780800000000000000
+      internalID: -8717599467697669438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_13
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 383
+        width: 78
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fdd4d122f03b730800000000000000
+      internalID: 4013568332112191384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_14
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 383
+        width: 77
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d046ee92a191340800000000000000
+      internalID: 4834924442354453814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_15
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 383
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97201477d8473410800000000000000
+      internalID: 1456713094680029083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_16
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 383
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc8024b02401ee30800000000000000
+      internalID: 4530907238618926329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_17
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 383
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6134f891fd9d93530800000000000000
+      internalID: 3835336109912441622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 287
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cb7e191c12bcb20800000000000000
+      internalID: 3155653079163452551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_19
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 287
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef4e76cb67b0f9c0800000000000000
+      internalID: -3895412004155928604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_20
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 287
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9048f16bfef597080800000000000000
+      internalID: -9189208081515445239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_21
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 287
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fda7ef99d4f3bdc0800000000000000
+      internalID: -3624284059575276042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_22
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 287
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21bec75f80215c1d0800000000000000
+      internalID: -3331236519682970862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_23
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 287
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352aaac4d9f0eb400800000000000000
+      internalID: 341727789997269587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_24
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 287
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c582db28456cf68f0800000000000000
+      internalID: -544998963615553444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_25
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 287
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10aeca16d59c0490800000000000000
+      internalID: -7778677709570400225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_26
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 287
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a186fcb9f2e0370800000000000000
+      internalID: 8290616310281804308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_27
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 191
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c20eac27b6f1110800000000000000
+      internalID: 1233822963696938023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 191
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5d5eb70a4793b00800000000000000
+      internalID: 808805840711964157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_29
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 191
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a2ff03690593520800000000000000
+      internalID: 2682263659073186338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_30
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 191
+        width: 78
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d71ec4591d09dd0800000000000000
+      internalID: -2481252955510964838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_31
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 191
+        width: 77
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5645c5d9f4bde5e80800000000000000
+      internalID: -8187865937524009883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_32
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 191
+        width: 77
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a60ad41526abc90800000000000000
+      internalID: -7153296956790379960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_33
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 191
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04175594c32180350800000000000000
+      internalID: 5983052155099377984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_34
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 191
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aeea800a066f91b0800000000000000
+      internalID: -5647683214554501471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_35
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 191
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4663b4b09b9b2a550800000000000000
+      internalID: 6170698643860567652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_36
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 95
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2a669df38d53e00800000000000000
+      internalID: 1023962259038577339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_37
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 95
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf13ad7977479c60800000000000000
+      internalID: 7824801464703983567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_38
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 95
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb7deb00ff5a8fb0800000000000000
+      internalID: -4644794581082342463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_39
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 95
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f671b89ef69584280800000000000000
+      internalID: -9058892313261303953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_40
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 95
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c334b5976cf9c140800000000000000
+      internalID: 4740597604607603650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_41
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 95
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489a4450a93cc63d0800000000000000
+      internalID: -3211977367941240444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_42
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 95
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a3f3941a2e3c280800000000000000
+      internalID: -9024120045973849494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_43
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 95
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2f7ce88a7bc5140800000000000000
+      internalID: 4709841244900553405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_44
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 95
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6615274e4688da1d0800000000000000
+      internalID: -3337861781900865178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_45
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f392d667ef06d570800000000000000
+      internalID: 8490991633990587377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_46
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7474ac42b4c408760800000000000000
+      internalID: 7458044868549035847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_47
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9437ba7cddfef5ea0800000000000000
+      internalID: -5881718852505865399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_48
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 0
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed872720bf6b6fe50800000000000000
+      internalID: 6842857873030150366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_49
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 0
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03ac47531d2127b0800000000000000
+      internalID: -5250866129445018868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_50
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 0
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a99ff92ba18d130800000000000000
+      internalID: 3591650057318406787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_51
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 63
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0d6923c879d4d70800000000000000
+      internalID: 9029039456347672813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_52
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 0
+        width: 63
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b298b19f75c130a40800000000000000
+      internalID: 5333137547903863083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladis_53
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 0
+        width: 63
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56dcd5cd965552950800000000000000
+      internalID: 6423634356670942565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Gladis_0: -8854236142689750996
+      Gladis_1: -7862673379511458987
+      Gladis_10: -5902962967566370281
+      Gladis_11: 8402581879603202617
+      Gladis_12: -8717599467697669438
+      Gladis_13: 4013568332112191384
+      Gladis_14: 4834924442354453814
+      Gladis_15: 1456713094680029083
+      Gladis_16: 4530907238618926329
+      Gladis_17: 3835336109912441622
+      Gladis_18: 3155653079163452551
+      Gladis_19: -3895412004155928604
+      Gladis_2: -4599981712533861787
+      Gladis_20: -9189208081515445239
+      Gladis_21: -3624284059575276042
+      Gladis_22: -3331236519682970862
+      Gladis_23: 341727789997269587
+      Gladis_24: -544998963615553444
+      Gladis_25: -7778677709570400225
+      Gladis_26: 8290616310281804308
+      Gladis_27: 1233822963696938023
+      Gladis_28: 808805840711964157
+      Gladis_29: 2682263659073186338
+      Gladis_3: 1297802046960725133
+      Gladis_30: -2481252955510964838
+      Gladis_31: -8187865937524009883
+      Gladis_32: -7153296956790379960
+      Gladis_33: 5983052155099377984
+      Gladis_34: -5647683214554501471
+      Gladis_35: 6170698643860567652
+      Gladis_36: 1023962259038577339
+      Gladis_37: 7824801464703983567
+      Gladis_38: -4644794581082342463
+      Gladis_39: -9058892313261303953
+      Gladis_4: 7989193440705602585
+      Gladis_40: 4740597604607603650
+      Gladis_41: -3211977367941240444
+      Gladis_42: -9024120045973849494
+      Gladis_43: 4709841244900553405
+      Gladis_44: -3337861781900865178
+      Gladis_45: 8490991633990587377
+      Gladis_46: 7458044868549035847
+      Gladis_47: -5881718852505865399
+      Gladis_48: 6842857873030150366
+      Gladis_49: -5250866129445018868
+      Gladis_5: 7511954701516690993
+      Gladis_50: 3591650057318406787
+      Gladis_51: 9029039456347672813
+      Gladis_52: 5333137547903863083
+      Gladis_53: 6423634356670942565
+      Gladis_6: 2777641583293895008
+      Gladis_7: -4346213475495175032
+      Gladis_8: -6307291829031050724
+      Gladis_9: -6927876794302009116
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

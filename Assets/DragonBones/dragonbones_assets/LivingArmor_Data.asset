@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: LivingArmor_Data
+  m_EditorClassIdentifier: 
+  dataName: LivingArmor
+  dragonBonesJSON: {fileID: 4900000, guid: ee45fdb32f09ec944b057e2f8c0cebf0, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: cb30f45e9ae927c4b8786f1e0c9d5c76, type: 3}
+    texture: {fileID: 2800000, guid: 76a0e83f79b894342bbeb2ff74a8044d, type: 3}
+    material: {fileID: 2100000, guid: f890fde7d9f884e40858abdbbe4dde7e, type: 2}
+    uiMaterial: {fileID: 2100000, guid: 89ff27e677d7a7f40b46f5dea1393250, type: 2}

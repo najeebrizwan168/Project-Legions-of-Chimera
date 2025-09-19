@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 146f4c667d4dc3345a8289eea025ab99, type: 3}
+  m_Name: aplonia
+  m_EditorClassIdentifier: 
+  cardID: 0
+  cardIcon: {fileID: 6171756478463703557, guid: abaf39b925a20c84e851907ed713c190, type: 3}
+  characterPrefab: {fileID: 2054408605869172738, guid: aacbb047cde445440bf919de978a78ae, type: 3}
+  energyCost: 5
+  health: 50
+  Attack_damage: 10
+  Fire_prefab:
+  - {fileID: 8737310272771537206, guid: 39c1604ab439ddf4fa9449fef39ff374, type: 3}
+  - {fileID: 402542786802725419, guid: cbc22bb224244cd4abd0ba0e03589f5e, type: 3}
+  DamageVfx_prefab: {fileID: 750165579235342313, guid: 194d9d389da0edf40a08bbe983686672, type: 3}
+  animatorControllers:
+  - {fileID: 9100000, guid: 5c20d61832803844db41b40d34043405, type: 2}
+  - {fileID: 9100000, guid: 5c20d61832803844db41b40d34043405, type: 2}
+  upgradelevel: 0
+  level: 1
+  imageadjust: 0
+  HeroAttackaudio: {fileID: 8300000, guid: 36d3fa14fa79bde49a9e54ad06d0e08e, type: 3}

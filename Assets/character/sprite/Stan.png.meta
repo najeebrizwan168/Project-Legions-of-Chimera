@@ -1,0 +1,1560 @@
+fileFormatVersion: 2
+guid: 480a99244afbc2b4e92c874eee8c13c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9093732110587022975
+    second: Stan_0
+  - first:
+      213: 7566489170528686844
+    second: Stan_1
+  - first:
+      213: 6519386746328203741
+    second: Stan_2
+  - first:
+      213: -261044167148369360
+    second: Stan_3
+  - first:
+      213: -3171948298429166728
+    second: Stan_4
+  - first:
+      213: 2508952493734717216
+    second: Stan_5
+  - first:
+      213: -4172713839810364105
+    second: Stan_6
+  - first:
+      213: -4521081265652789163
+    second: Stan_7
+  - first:
+      213: 8733353140389776804
+    second: Stan_8
+  - first:
+      213: 9115523016139857573
+    second: Stan_9
+  - first:
+      213: -2187988884412244045
+    second: Stan_10
+  - first:
+      213: 6065795416690886459
+    second: Stan_11
+  - first:
+      213: 5105541771374446300
+    second: Stan_12
+  - first:
+      213: 8054398133078367018
+    second: Stan_13
+  - first:
+      213: 2940577130971377664
+    second: Stan_14
+  - first:
+      213: -1032340528429800067
+    second: Stan_15
+  - first:
+      213: -4135213418825332272
+    second: Stan_16
+  - first:
+      213: 2199820628382794583
+    second: Stan_17
+  - first:
+      213: 100793347694158836
+    second: Stan_18
+  - first:
+      213: 5757527699168638888
+    second: Stan_19
+  - first:
+      213: 1618104362444281125
+    second: Stan_20
+  - first:
+      213: 3844875165229065692
+    second: Stan_21
+  - first:
+      213: 9144017655028339636
+    second: Stan_22
+  - first:
+      213: -3041942602519990220
+    second: Stan_23
+  - first:
+      213: -2068227859831798463
+    second: Stan_24
+  - first:
+      213: 6244940099214106198
+    second: Stan_25
+  - first:
+      213: -321725950642168237
+    second: Stan_26
+  - first:
+      213: 6860866475043516032
+    second: Stan_27
+  - first:
+      213: -2118341913421749566
+    second: Stan_28
+  - first:
+      213: 4793137681161836844
+    second: Stan_29
+  - first:
+      213: 3369747020281452344
+    second: Stan_30
+  - first:
+      213: -4352489419855457920
+    second: Stan_31
+  - first:
+      213: -5050180378316763926
+    second: Stan_32
+  - first:
+      213: -7212839625602534941
+    second: Stan_33
+  - first:
+      213: -2953871841263295287
+    second: Stan_34
+  - first:
+      213: -755017054241936279
+    second: Stan_35
+  - first:
+      213: 486523242126147423
+    second: Stan_36
+  - first:
+      213: 3765288445415873422
+    second: Stan_37
+  - first:
+      213: -8199211510583419064
+    second: Stan_38
+  - first:
+      213: 262992241890414751
+    second: Stan_39
+  - first:
+      213: -3965934003534363878
+    second: Stan_40
+  - first:
+      213: -7744586108657979765
+    second: Stan_41
+  - first:
+      213: 2272908810791497023
+    second: Stan_42
+  - first:
+      213: 5536322760280193641
+    second: Stan_43
+  - first:
+      213: 72781838030247282
+    second: Stan_44
+  - first:
+      213: 7524740483613748292
+    second: Stan_45
+  - first:
+      213: -3265935176168028871
+    second: Stan_46
+  - first:
+      213: 967924599446186908
+    second: Stan_47
+  - first:
+      213: 6235769570045658720
+    second: Stan_48
+  - first:
+      213: -3708640175951812577
+    second: Stan_49
+  - first:
+      213: -7236727650855883151
+    second: Stan_50
+  - first:
+      213: 6658539572449450313
+    second: Stan_51
+  - first:
+      213: -2406544838392843199
+    second: Stan_52
+  - first:
+      213: -7633259690560716331
+    second: Stan_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stan_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 479
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181b5e973d29cc180800000000000000
+      internalID: -9093732110587022975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 479
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2d336cfc1910960800000000000000
+      internalID: 7566489170528686844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 479
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1484064b3897a50800000000000000
+      internalID: 6519386746328203741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_3
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 479
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a0f6a86b5906cf0800000000000000
+      internalID: -261044167148369360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 479
+        width: 78
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b893a04d9faf3d0800000000000000
+      internalID: -3171948298429166728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 479
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0276363000791d220800000000000000
+      internalID: 2508952493734717216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_6
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 479
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d3fb4eeda8716c0800000000000000
+      internalID: -4172713839810364105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_7
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 479
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5509718ea84e141c0800000000000000
+      internalID: -4521081265652789163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_8
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 479
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad89fee86a133970800000000000000
+      internalID: 8733353140389776804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_9
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 383
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aed9e613e7d08e70800000000000000
+      internalID: 9115523016139857573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_10
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 383
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfda1cb3b3b2a1e0800000000000000
+      internalID: -2187988884412244045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_11
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 383
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b378d042bc80e2450800000000000000
+      internalID: 6065795416690886459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_12
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 383
+        width: 53
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd641b4d0378ad640800000000000000
+      internalID: 5105541771374446300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_13
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 383
+        width: 68
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b94b19d68f6cf60800000000000000
+      internalID: 8054398133078367018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_14
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 383
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000bf2e12570fc820800000000000000
+      internalID: 2940577130971377664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_15
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 383
+        width: 53
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75e3bb42c36ca1f0800000000000000
+      internalID: -1032340528429800067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_16
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 383
+        width: 53
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9cc7c0e45cc96c0800000000000000
+      internalID: -4135213418825332272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_17
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 383
+        width: 53
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7534554d435578e10800000000000000
+      internalID: 2199820628382794583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_18
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 287
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f368050407166100800000000000000
+      internalID: 100793347694158836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_19
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 287
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a73b6d00f8d6ef40800000000000000
+      internalID: 5757527699168638888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_20
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 287
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52550053859a47610800000000000000
+      internalID: 1618104362444281125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_21
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 287
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5233d779dbb5530800000000000000
+      internalID: 3844875165229065692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_22
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 287
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b35dd33c9316ee70800000000000000
+      internalID: 9144017655028339636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_23
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 287
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4303ba5e159d8c5d0800000000000000
+      internalID: -3041942602519990220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_24
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 287
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145c82c28bd2c43e0800000000000000
+      internalID: -2068227859831798463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_25
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 287
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65edf31eeeb7aa650800000000000000
+      internalID: 6244940099214106198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_26
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 287
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ed2f4d3fff88bf0800000000000000
+      internalID: -321725950642168237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_27
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 191
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08eea5865b1b63f50800000000000000
+      internalID: 6860866475043516032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_28
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 191
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2eca1d0432a92e0800000000000000
+      internalID: -2118341913421749566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_29
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 191
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29d03d6355a48240800000000000000
+      internalID: 4793137681161836844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 191
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8379eceaf0fb3ce20800000000000000
+      internalID: 3369747020281452344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_31
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 191
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0819ed0eee9d893c0800000000000000
+      internalID: -4352489419855457920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_32
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 191
+        width: 65
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec08c2f3b72ae9b0800000000000000
+      internalID: -5050180378316763926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_33
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 191
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e179166398d6eb90800000000000000
+      internalID: -7212839625602534941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_34
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 191
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4e87de53db107d0800000000000000
+      internalID: -2953871841263295287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_35
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 191
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c2c8a4df3a585f0800000000000000
+      internalID: -755017054241936279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_36
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 95
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f76ed9f4a70c600800000000000000
+      internalID: 486523242126147423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_37
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 95
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b55e944edf04430800000000000000
+      internalID: 3765288445415873422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_38
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 95
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f9169829c863e80800000000000000
+      internalID: -8199211510583419064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_39
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 95
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90df84fc0656a300800000000000000
+      internalID: 262992241890414751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_40
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 95
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1301b4490c26f8c0800000000000000
+      internalID: -3965934003534363878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_41
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 95
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e240d77f3b58490800000000000000
+      internalID: -7744586108657979765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_42
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 95
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d2512658efa8f10800000000000000
+      internalID: 2272908810791497023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_43
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 95
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a3960c738f4dc40800000000000000
+      internalID: 5536322760280193641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_44
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 95
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27594e132b2920100800000000000000
+      internalID: 72781838030247282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_45
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c6cc02a9f3d6860800000000000000
+      internalID: 7524740483613748292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_46
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9354d0dc2411da2d0800000000000000
+      internalID: -3265935176168028871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_47
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 0
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b2a5f7b42ce6d00800000000000000
+      internalID: 967924599446186908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_48
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 0
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06603cba267e98650800000000000000
+      internalID: 6235769570045658720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_49
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 0
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1866a0c863488cc0800000000000000
+      internalID: -3708640175951812577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_50
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 0
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17eec7a1b8af19b90800000000000000
+      internalID: -7236727650855883151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_51
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 0
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9491bb27672e76c50800000000000000
+      internalID: 6658539572449450313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_52
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 0
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1447b8b483c3a9ed0800000000000000
+      internalID: -2406544838392843199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stan_53
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 0
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d102d111c6311690800000000000000
+      internalID: -7633259690560716331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Stan_0: -9093732110587022975
+      Stan_1: 7566489170528686844
+      Stan_10: -2187988884412244045
+      Stan_11: 6065795416690886459
+      Stan_12: 5105541771374446300
+      Stan_13: 8054398133078367018
+      Stan_14: 2940577130971377664
+      Stan_15: -1032340528429800067
+      Stan_16: -4135213418825332272
+      Stan_17: 2199820628382794583
+      Stan_18: 100793347694158836
+      Stan_19: 5757527699168638888
+      Stan_2: 6519386746328203741
+      Stan_20: 1618104362444281125
+      Stan_21: 3844875165229065692
+      Stan_22: 9144017655028339636
+      Stan_23: -3041942602519990220
+      Stan_24: -2068227859831798463
+      Stan_25: 6244940099214106198
+      Stan_26: -321725950642168237
+      Stan_27: 6860866475043516032
+      Stan_28: -2118341913421749566
+      Stan_29: 4793137681161836844
+      Stan_3: -261044167148369360
+      Stan_30: 3369747020281452344
+      Stan_31: -4352489419855457920
+      Stan_32: -5050180378316763926
+      Stan_33: -7212839625602534941
+      Stan_34: -2953871841263295287
+      Stan_35: -755017054241936279
+      Stan_36: 486523242126147423
+      Stan_37: 3765288445415873422
+      Stan_38: -8199211510583419064
+      Stan_39: 262992241890414751
+      Stan_4: -3171948298429166728
+      Stan_40: -3965934003534363878
+      Stan_41: -7744586108657979765
+      Stan_42: 2272908810791497023
+      Stan_43: 5536322760280193641
+      Stan_44: 72781838030247282
+      Stan_45: 7524740483613748292
+      Stan_46: -3265935176168028871
+      Stan_47: 967924599446186908
+      Stan_48: 6235769570045658720
+      Stan_49: -3708640175951812577
+      Stan_5: 2508952493734717216
+      Stan_50: -7236727650855883151
+      Stan_51: 6658539572449450313
+      Stan_52: -2406544838392843199
+      Stan_53: -7633259690560716331
+      Stan_6: -4172713839810364105
+      Stan_7: -4521081265652789163
+      Stan_8: 8733353140389776804
+      Stan_9: 9115523016139857573
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

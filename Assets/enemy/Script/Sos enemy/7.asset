@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7acbcc4ae1f13746ab4014013ed6e5a, type: 3}
+  m_Name: 7
+  m_EditorClassIdentifier: 
+  enemyID: 
+  enemyIcon: {fileID: -3239652894482768102, guid: ceb88a8cf44f5244ebd5ae41a35bb804, type: 3}
+  prefab: {fileID: 6673755694097065907, guid: 2165757df50c1f6419af96dc28b58d13, type: 3}
+  health: 50
+  attackCooldown: 3
+  damage: 14
+  Fire_prefab: {fileID: 7102562133346553516, guid: 13268d772261cd4439d91a1e28817618, type: 3}
+  impact_vfx: {fileID: 3477296267463906573, guid: 65570516e94f73e4cacfda9e9f4dbca8, type: 3}
+  audio: {fileID: 8300000, guid: 087a7b6e63a3ca7459ca28b42ae4037b, type: 3}

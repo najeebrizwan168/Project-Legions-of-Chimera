@@ -1,0 +1,1500 @@
+fileFormatVersion: 2
+guid: 5c97bc248780bb148ab64c9b32ce8d66
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5621289142458735910
+    second: Librarium_B_0
+  - first:
+      213: -6044109006968331596
+    second: Librarium_B_1
+  - first:
+      213: -9201387322463805590
+    second: Librarium_B_2
+  - first:
+      213: -7130183903457899494
+    second: Librarium_B_3
+  - first:
+      213: -5009456369768765740
+    second: Librarium_B_4
+  - first:
+      213: -420827328160602546
+    second: Librarium_B_5
+  - first:
+      213: -398319423390680523
+    second: Librarium_B_6
+  - first:
+      213: -8956309740732462195
+    second: Librarium_B_7
+  - first:
+      213: -5582317973953372360
+    second: Librarium_B_8
+  - first:
+      213: -1235976631926905221
+    second: Librarium_B_9
+  - first:
+      213: -4803371129809166784
+    second: Librarium_B_10
+  - first:
+      213: -3385215984492286128
+    second: Librarium_B_11
+  - first:
+      213: 6015237668116077725
+    second: Librarium_B_12
+  - first:
+      213: 2977236343080858618
+    second: Librarium_B_13
+  - first:
+      213: 992960564630370335
+    second: Librarium_B_14
+  - first:
+      213: 4422272772631387032
+    second: Librarium_B_15
+  - first:
+      213: -9127598020724989050
+    second: Librarium_B_16
+  - first:
+      213: -3249070594677109757
+    second: Librarium_B_17
+  - first:
+      213: -3229713966719940556
+    second: Librarium_B_18
+  - first:
+      213: -8029699293307366594
+    second: Librarium_B_19
+  - first:
+      213: 224591078727320478
+    second: Librarium_B_20
+  - first:
+      213: 7707822421655343387
+    second: Librarium_B_21
+  - first:
+      213: -514070823284871282
+    second: Librarium_B_22
+  - first:
+      213: 6346967055102343382
+    second: Librarium_B_23
+  - first:
+      213: 5566781767319330694
+    second: Librarium_B_24
+  - first:
+      213: -7752278466201149164
+    second: Librarium_B_25
+  - first:
+      213: 7911927551587869371
+    second: Librarium_B_26
+  - first:
+      213: -6304284037327021002
+    second: Librarium_B_27
+  - first:
+      213: 4573591152401445937
+    second: Librarium_B_28
+  - first:
+      213: -3466840494375500740
+    second: Librarium_B_29
+  - first:
+      213: 549447703260649597
+    second: Librarium_B_30
+  - first:
+      213: -677325076344237964
+    second: Librarium_B_31
+  - first:
+      213: -7974843555823314964
+    second: Librarium_B_32
+  - first:
+      213: -397616733741437576
+    second: Librarium_B_33
+  - first:
+      213: 6919901942060041622
+    second: Librarium_B_34
+  - first:
+      213: -4655140682218475337
+    second: Librarium_B_35
+  - first:
+      213: -3767031205679445132
+    second: Librarium_B_36
+  - first:
+      213: 2483237793283702685
+    second: Librarium_B_37
+  - first:
+      213: -2538026334024330831
+    second: Librarium_B_38
+  - first:
+      213: 4217347119038846618
+    second: Librarium_B_39
+  - first:
+      213: -7467074159972178910
+    second: Librarium_B_40
+  - first:
+      213: 5865381465753909371
+    second: Librarium_B_41
+  - first:
+      213: -3921692253740557433
+    second: Librarium_B_42
+  - first:
+      213: -2203925226996217697
+    second: Librarium_B_43
+  - first:
+      213: 8066611696986140384
+    second: Librarium_B_44
+  - first:
+      213: 4091278358810679497
+    second: Librarium_B_45
+  - first:
+      213: -2998470994699929007
+    second: Librarium_B_46
+  - first:
+      213: -4273720801469772153
+    second: Librarium_B_47
+  - first:
+      213: -942958089127866336
+    second: Librarium_B_48
+  - first:
+      213: -6912670067079130557
+    second: Librarium_B_49
+  - first:
+      213: 3649824941557264967
+    second: Librarium_B_50
+  - first:
+      213: 7203450196607218061
+    second: Librarium_B_51
+  - first:
+      213: -6774064333897981001
+    second: Librarium_B_52
+  - first:
+      213: 4620903429196679097
+    second: Librarium_B_53
+  - first:
+      213: -9107315725083626746
+    second: Librarium_B_54
+  - first:
+      213: -1240681983067252697
+    second: Librarium_B_55
+  - first:
+      213: 525820803137427645
+    second: Librarium_B_56
+  - first:
+      213: -5350199441620220238
+    second: Librarium_B_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Librarium_B_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 664
+        width: 242
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2acfbce4b2df1b0800000000000000
+      internalID: -5621289142458735910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_1
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 623
+        width: 98
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2e9e791e20f1ca0800000000000000
+      internalID: -6044109006968331596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_2
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 623
+        width: 98
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f13c33bfa1e4080800000000000000
+      internalID: -9201387322463805590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_3
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 627
+        width: 95
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c0f23648f7c0d90800000000000000
+      internalID: -7130183903457899494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_4
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 479
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d66d1219f5da7ab0800000000000000
+      internalID: -5009456369768765740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_6
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 481
+        width: 98
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53af8a54892e87af0800000000000000
+      internalID: -398319423390680523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_7
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 582
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b454d4ebbc4b380800000000000000
+      internalID: -8956309740732462195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_8
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 582
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f1b3b016f9782b0800000000000000
+      internalID: -5582317973953372360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_9
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 532
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76205f3dcde8dee0800000000000000
+      internalID: -1235976631926905221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_10
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 435
+        width: 50
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e9b53286ff65db0800000000000000
+      internalID: -4803371129809166784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_11
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 479
+        width: 40
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fec5c6ffb4501d0800000000000000
+      internalID: -3385215984492286128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_12
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 479
+        width: 43
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c9b9ff9ca6a7350800000000000000
+      internalID: 6015237668116077725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_13
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 483
+        width: 94
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3b7b11ea4415920800000000000000
+      internalID: 2977236343080858618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_14
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 483
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18b3c26f54b7cd00800000000000000
+      internalID: 992960564630370335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_15
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 447
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b539018a11f5d30800000000000000
+      internalID: 4422272772631387032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_16
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 433
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683e022d5f1445180800000000000000
+      internalID: -9127598020724989050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_17
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 464
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c8a1a228bf8e2d0800000000000000
+      internalID: -3249070594677109757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 335
+        width: 48
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4384a8f4240cd23d0800000000000000
+      internalID: -3229713966719940556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_19
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 338
+        width: 130
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3395313907c09090800000000000000
+      internalID: -8029699293307366594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_20
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 335
+        width: 86
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93834b6568ed1300800000000000000
+      internalID: 224591078727320478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_21
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 335
+        width: 146
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11de8a97afa7fa60800000000000000
+      internalID: 7707822421655343387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_22
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 393
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f66b45f47add8f0800000000000000
+      internalID: -514070823284871282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_23
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 385
+        width: 97
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d87b70b8e4f41850800000000000000
+      internalID: 6346967055102343382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_24
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 385
+        width: 97
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f9037f58e214d40800000000000000
+      internalID: 5566781767319330694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_28
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 298
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134f1c2dbe8a87f30800000000000000
+      internalID: 4573591152401445937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_31
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 288
+        width: 37
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47099038e68a996f0800000000000000
+      internalID: -677325076344237964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_32
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 288
+        width: 37
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce796dbd90aa35190800000000000000
+      internalID: -7974843555823314964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_33
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 302
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d2794ffa16b7af0800000000000000
+      internalID: -397616733741437576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_34
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 291
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6954601372e680060800000000000000
+      internalID: 6919901942060041622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_35
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 288
+        width: 80
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0f5e8a63e956fb0800000000000000
+      internalID: -4655140682218475337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_38
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 213
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b194e90f7e17ccd0800000000000000
+      internalID: -2538026334024330831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_39
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 192
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96d3dc3cd6078a30800000000000000
+      internalID: 4217347119038846618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_40
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 206
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2242c5f1d9f9f5890800000000000000
+      internalID: -7467074159972178910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_41
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 175
+        width: 37
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78fb62fd55066150800000000000000
+      internalID: 5865381465753909371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_42
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 175
+        width: 37
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b94695ca95399c0800000000000000
+      internalID: -3921692253740557433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_43
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 192
+        width: 48
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f984e55dea51a61e0800000000000000
+      internalID: -2203925226996217697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_44
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 191
+        width: 44
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eeaed3899c52ff60800000000000000
+      internalID: 8066611696986140384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_45
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 191
+        width: 44
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c85726adf327c830800000000000000
+      internalID: 4091278358810679497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_46
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 191
+        width: 44
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a3993548a4366d0800000000000000
+      internalID: -2998470994699929007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_47
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 191
+        width: 44
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e423ff291b0b4c0800000000000000
+      internalID: -4273720801469772153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_48
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 50
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020d37b2d90f9e2f0800000000000000
+      internalID: -942958089127866336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_49
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 112
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342d54ae2334110a0800000000000000
+      internalID: -6912670067079130557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 95
+        width: 49
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742b1ed5278c6a230800000000000000
+      internalID: 3649824941557264967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_51
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 0
+        width: 46
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81bdfdc9cbc7f360800000000000000
+      internalID: 7203450196607218061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_52
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 95
+        width: 194
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b32e5cf060bdf1a0800000000000000
+      internalID: -6774064333897981001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_53
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 95
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b707aeaf2fb02040800000000000000
+      internalID: 4620903429196679097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_54
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 47
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603bf05c9905c9180800000000000000
+      internalID: -9107315725083626746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_55
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 37
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7289c005f4638cee0800000000000000
+      internalID: -1240681983067252697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_56
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 49
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8548a0c371c4700800000000000000
+      internalID: 525820803137427645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_25
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 332
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d8a56101be18a438f857734d53f2d8
+      internalID: -1670043755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_26
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 290
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb51f020598932438b1d9cb438ccb2e
+      internalID: -496570956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_5
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 537
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d18f26d7840ae54b85f4a2bfac140c4
+      internalID: 666194090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Librarium_B_27
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 0
+        width: 37
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06f29061c5cba8498033ea6ff69efcf
+      internalID: -1867285419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 65d3f98242e34a645a661e965633addd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Librarium_B_25: -1670043755
+      Librarium_B_26: -496570956
+      Librarium_B_27: -1867285419
+      Librarium_B_5: 666194090
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

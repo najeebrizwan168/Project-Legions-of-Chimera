@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: 8441e95a137562b46a786a1e8429626e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7683953410262636661
+    second: ElementalCaverns_B_0
+  - first:
+      213: 6591838593281470090
+    second: ElementalCaverns_B_1
+  - first:
+      213: 166616481600861464
+    second: ElementalCaverns_B_2
+  - first:
+      213: 6364333455010393078
+    second: ElementalCaverns_B_3
+  - first:
+      213: -8861409810831093729
+    second: ElementalCaverns_B_4
+  - first:
+      213: 6711872469592752566
+    second: ElementalCaverns_B_5
+  - first:
+      213: -3112765230969061402
+    second: ElementalCaverns_B_6
+  - first:
+      213: -2435911619407819166
+    second: ElementalCaverns_B_7
+  - first:
+      213: -7209361549905441379
+    second: ElementalCaverns_B_8
+  - first:
+      213: -6701777833651321577
+    second: ElementalCaverns_B_9
+  - first:
+      213: -8270743362578278668
+    second: ElementalCaverns_B_10
+  - first:
+      213: -8130012454874847475
+    second: ElementalCaverns_B_11
+  - first:
+      213: -2784947809775918099
+    second: ElementalCaverns_B_12
+  - first:
+      213: 6058562603603414085
+    second: ElementalCaverns_B_13
+  - first:
+      213: -6590505710185724140
+    second: ElementalCaverns_B_14
+  - first:
+      213: 4963321234286524360
+    second: ElementalCaverns_B_15
+  - first:
+      213: 477779827907040886
+    second: ElementalCaverns_B_16
+  - first:
+      213: 3782145016314746148
+    second: ElementalCaverns_B_17
+  - first:
+      213: -8135661957280457388
+    second: ElementalCaverns_B_18
+  - first:
+      213: -1072892442631361912
+    second: ElementalCaverns_B_19
+  - first:
+      213: 6687273966933782212
+    second: ElementalCaverns_B_20
+  - first:
+      213: -6775297785428292911
+    second: ElementalCaverns_B_21
+  - first:
+      213: -3146215850977341063
+    second: ElementalCaverns_B_22
+  - first:
+      213: 8705899833091620647
+    second: ElementalCaverns_B_23
+  - first:
+      213: 7759105889160501610
+    second: ElementalCaverns_B_24
+  - first:
+      213: -4146240978138055017
+    second: ElementalCaverns_B_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ElementalCaverns_B_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 674
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87e4aea51d1d5590800000000000000
+      internalID: -7683953410262636661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalCaverns_B_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 671
+        width: 43
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ea049864aea7b50800000000000000
+      internalID: 6591838593281470090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalCaverns_B_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 671
+        width: 41
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8157b87aec0ff4200800000000000000
+      internalID: 166616481600861464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalCaverns_B_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 680
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb6702ce87a25850800000000000000
+      internalID: 6364333455010393078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalCaverns_B_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 683
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1050401ab2f50580800000000000000
+      internalID: -8861409810831093729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalCaverns_B_5
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 687
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1ccc7337c552d50800000000000000
+      internalID: 6711872469592752566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalCaverns_B_6
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 696
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eff6eab38c3dc4d0800000000000000
+      internalID: -3112765230969061402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalCaverns_B_7
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 623
+        width: 44
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e43f4c947e13ed0800000000000000
+      internalID: -2435911619407819166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalCaverns_B_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 575
+        width: 48
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9dc6800ed333fb90800000000000000
+      internalID: -7209361549905441379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalCaverns_B_9
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 631
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71540ad51908ef2a0800000000000000
+      internalID: -6701777833651321577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalCaverns_B_10
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 623
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f61a156bba683d80800000000000000
+      internalID: -8270743362578278668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalCaverns_B_11
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 623
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07eea73fb46c2f80800000000000000
+      internalID: -8130012454874847475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalCaverns_B_12
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 575
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3ed48e8b0e959d0800000000000000
+      internalID: -2784947809775918099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalCaverns_B_13
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 479
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c4f3d9696541450800000000000000
+      internalID: 6058562603603414085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalCaverns_B_14
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 479
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417423e79f1d984a0800000000000000
+      internalID: -6590505710185724140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalCaverns_B_15
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 479
+        width: 45
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c73dc3ad5241e440800000000000000
+      internalID: 4963321234286524360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalCaverns_B_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 486
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6761f3bd83a61a600800000000000000
+      internalID: 477779827907040886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalCaverns_B_17
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 493
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425547a8ad0ec7430800000000000000
+      internalID: 3782145016314746148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalCaverns_B_18
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 502
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d93afed82581f80800000000000000
+      internalID: -8135661957280457388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalCaverns_B_19
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 431
+        width: 44
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88aa1c202025c11f0800000000000000
+      internalID: -1072892442631361912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalCaverns_B_20
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 488
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce2ec20e38fdcc50800000000000000
+      internalID: 6687273966933782212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalCaverns_B_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 48
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da4e0caf8e49f1a0800000000000000
+      internalID: -6775297785428292911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalCaverns_B_22
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 431
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971dac75a556654d0800000000000000
+      internalID: -3146215850977341063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalCaverns_B_23
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 439
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ffe89b5c191d870800000000000000
+      internalID: 8705899833091620647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalCaverns_B_24
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 431
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a699d0a52b1edab60800000000000000
+      internalID: 7759105889160501610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElementalCaverns_B_25
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 431
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79eb9e05cc79576c0800000000000000
+      internalID: -4146240978138055017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ElementalCaverns_B_0: -7683953410262636661
+      ElementalCaverns_B_1: 6591838593281470090
+      ElementalCaverns_B_10: -8270743362578278668
+      ElementalCaverns_B_11: -8130012454874847475
+      ElementalCaverns_B_12: -2784947809775918099
+      ElementalCaverns_B_13: 6058562603603414085
+      ElementalCaverns_B_14: -6590505710185724140
+      ElementalCaverns_B_15: 4963321234286524360
+      ElementalCaverns_B_16: 477779827907040886
+      ElementalCaverns_B_17: 3782145016314746148
+      ElementalCaverns_B_18: -8135661957280457388
+      ElementalCaverns_B_19: -1072892442631361912
+      ElementalCaverns_B_2: 166616481600861464
+      ElementalCaverns_B_20: 6687273966933782212
+      ElementalCaverns_B_21: -6775297785428292911
+      ElementalCaverns_B_22: -3146215850977341063
+      ElementalCaverns_B_23: 8705899833091620647
+      ElementalCaverns_B_24: 7759105889160501610
+      ElementalCaverns_B_25: -4146240978138055017
+      ElementalCaverns_B_3: 6364333455010393078
+      ElementalCaverns_B_4: -8861409810831093729
+      ElementalCaverns_B_5: 6711872469592752566
+      ElementalCaverns_B_6: -3112765230969061402
+      ElementalCaverns_B_7: -2435911619407819166
+      ElementalCaverns_B_8: -7209361549905441379
+      ElementalCaverns_B_9: -6701777833651321577
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

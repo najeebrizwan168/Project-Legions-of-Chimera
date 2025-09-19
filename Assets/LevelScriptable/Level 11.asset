@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a217ed99e9bfd1445a85a2deee1ca85f, type: 3}
+  m_Name: Level 11
+  m_EditorClassIdentifier: 
+  levelIndex: 11
+  level_time: 130
+  reward: 4000
+  After_level_reward: 100
+  levelComplete: 0
+  waves:
+  - enemies:
+    - enemyType: {fileID: 11400000, guid: 0eb8106edd95af944bff281c2e3131e8, type: 2}
+      count: 6
+  - enemies:
+    - enemyType: {fileID: 11400000, guid: c490c14fb9f7ff64b819f583409456e1, type: 2}
+      count: 2
+  - enemies:
+    - enemyType: {fileID: 11400000, guid: cc7fc3316e69cb441ba6d6e57cac57d6, type: 2}
+      count: 4
+  - enemies:
+    - enemyType: {fileID: 11400000, guid: 7da77950d11b3d74b93a6c830dd38567, type: 2}
+      count: 2
+  - enemies:
+    - enemyType: {fileID: 11400000, guid: 226f1be54bde0aa44ac499edaf0b30b3, type: 2}
+      count: 1
+  - enemies:
+    - enemyType: {fileID: 11400000, guid: 802cfa1444cf203459707116cf3f44b9, type: 2}
+      count: 4
+  - enemies:
+    - enemyType: {fileID: 11400000, guid: 82a34a523bffc044ab04d2ab75b0ed0c, type: 2}
+      count: 2
